@@ -7,9 +7,9 @@
 - Compared between: KNN, Logistic Regression and RandomForestClassifier
 - Performed Hyperparameter Tuning to increase the accuracy of Models.
 - Extracted Evaluation Matices for Performance Insights.
-Performing:
-ROC Curve and AUC Scores
-Confusion Matrix
-Classification Report: Presision Score, Recall Score and f1 Score
-Cross Validation
+--Performing:
+1. ROC Curve and AUC Scores
+2. Confusion Matrix
+3. Classification Report: Presision Score, Recall Score and f1 Score
+4. Cross Validation
 - Fianlly, performed Feature Importance to see which all parameters contributes majority differences.
