@@ -30,21 +30,21 @@ This project applies **Binary Classification** on the **Cleveland Heart Disease 
 
 ## 📈 Evaluation Metrics
 The models were evaluated using the following methods:
-<img width="641" height="435" alt="image" src="https://github.com/user-attachments/assets/b6048b61-b031-48e4-8136-e6d741da6cba" />
+<img width="441" height="235" alt="image" src="https://github.com/user-attachments/assets/b6048b61-b031-48e4-8136-e6d741da6cba" />
 
 
 1. **ROC Curve & AUC Scores**  
 2. **Confusion Matrix**  
 3. **Classification Report** (Precision, Recall, F1 Score)  
 4. **Cross Validation**
-<img width="637" height="462" alt="image" src="https://github.com/user-attachments/assets/1293ce6b-4444-474f-9cf6-361bc21faa02" />
+<img width="437" height="262" alt="image" src="https://github.com/user-attachments/assets/1293ce6b-4444-474f-9cf6-361bc21faa02" />
 
 
 ---
 
 ## 🌟 Feature Importance
 Finally, **Feature Importance Analysis** was performed to identify which parameters contribute the most to heart disease prediction.
-<img width="690" height="580" alt="image" src="https://github.com/user-attachments/assets/6af956fb-ee42-4cb7-b6c2-07791bc0926a" />
+<img width="490" height="380" alt="image" src="https://github.com/user-attachments/assets/6af956fb-ee42-4cb7-b6c2-07791bc0926a" />
 
 
 ---
