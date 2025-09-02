@@ -22,7 +22,8 @@ This project applies **Binary Classification** on the **Cleveland Heart Disease 
 - **Logistic Regression**
 - **Random Forest Classifier**
 
-- ![Uploading image.png…]()
+<img width="819" height="610" alt="image" src="https://github.com/user-attachments/assets/7ff51611-cfa0-4269-b62a-49a2a663f7f4" />
+
 
 
 ---
