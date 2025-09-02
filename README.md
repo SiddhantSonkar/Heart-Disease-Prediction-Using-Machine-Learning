@@ -12,7 +12,7 @@ This project applies **Binary Classification** on the **Cleveland Heart Disease 
 
 ---
 
-## 🖼️ Sample Output
+## 🖼️ Overview of Workflow
 <img width="577" height="295" alt="Model Comparison" src="https://github.com/user-attachments/assets/e07a8193-7f73-4ae2-baa9-d950349c7247" />
 
 ---
