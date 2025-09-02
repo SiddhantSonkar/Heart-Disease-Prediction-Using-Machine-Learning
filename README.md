@@ -30,6 +30,7 @@ This project applies **Binary Classification** on the **Cleveland Heart Disease 
 
 ## 📈 Evaluation Metrics
 The models were evaluated using the following methods:
+
 <img width="441" height="235" alt="image" src="https://github.com/user-attachments/assets/b6048b61-b031-48e4-8136-e6d741da6cba" />
 
 
